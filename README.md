@@ -1,6 +1,6 @@
 # Ivanti Expression Engine
 
-This is a dirty proof of concept domain specific language to reproduce Ivanti expressions within scripting contexts. This proof of concept has been used alongside a custom workflow engine to reproduce a complex request offering workflow of ~100 blocks and over one hundred expressions. The custom solution lives entirely within the Ivanti Service Management System and performs 800x faster than the inbuilt workflow engine in the case of the aforementioned complex workflow.
+Expression Engine is a dirty proof of concept domain specific language to reproduce Ivanti expressions within scripting contexts. This proof of concept has been used alongside a custom workflow engine to reproduce a complex request offering workflow of ~100 blocks and over one hundred expressions. The custom solution lives entirely within the Ivanti Service Management System and performs 800x faster than the inbuilt workflow engine in the case of the aforementioned complex workflow.
 
 For example, let's assume that a request offering had this expression to generate a subject line for its service requests.
 
