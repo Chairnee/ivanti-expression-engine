@@ -1,0 +1,18 @@
+{
+  "javascript": {
+    "formatter": {
+      "enabled": true,
+      "trailingCommas": "none"
+    }
+  },
+  "linter": {
+    "rules": {
+      "complexity": {
+        "useArrowFunction": "off"
+      },
+      "style": {
+        "useTemplate": "off"
+      }
+    }
+  }
+}

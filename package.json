@@ -1,0 +1,10 @@
+{
+  "name": "ivanti-expression-engine",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Proof-of-concept Ivanti expression engine and tests",
+  "main": "expressionEngine.js",
+  "scripts": {
+    "test": "node expressionEngine.test.js"
+  }
+}
